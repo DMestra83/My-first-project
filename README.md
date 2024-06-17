@@ -1,2 +1,2 @@
 # My-first-project
-Data Analyst project, including Googlesheets dashboards, Google BigQuery and Looker tasks.
+Data Analyst project, including Googlesheets dashboards, Google BigQuery and Looker tasks and more.
